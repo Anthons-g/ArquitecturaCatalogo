@@ -95,6 +95,7 @@ npm install
 ### 4. Inicializar datos de prueba
 
 ```bash
+
 # Iniciar el backend
 cd backend
 npm run start:dev
